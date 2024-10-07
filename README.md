@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 -->
 
 #EXPERIENCE#
-https://img.shields.io/badge/MariaDB-blue
-https://img.shields.io/badge/Linux_Mint-green
+
+<img title="MariaDB" alt="Alt text" src="[/images/boo.svg](https://img.shields.io/badge/MariaDB-blue)">
+
+
