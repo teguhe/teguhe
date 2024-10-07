@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Teguh+Prasetyo;a+Delphi+and+Pascal+Enthusiast)](https://git.io/typing-svg)
-
 <!--
 **teguhe/teguhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
