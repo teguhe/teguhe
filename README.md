@@ -1,3 +1,4 @@
+#ABOUT ME#
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Teguh+Prasetyo;a+Delphi+and+Pascal+Enthusiast)](https://git.io/typing-svg)
 
 <!--
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#EXPERIENCE#
+https://img.shields.io/badge/MariaDB-blue
+https://img.shields.io/badge/Linux_Mint-green
