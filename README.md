@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 .
 [![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
 
-
+-->
 
 ---
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teguhe&show_icons=true&theme=tokyonight&border_color=0D1117&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teguhe&show_icons=true&theme=tokyonight&border_color=0D1117&bg_color=0D1116)](https://github.com/anuraghazra/github-readme-stats)
+
