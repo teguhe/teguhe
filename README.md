@@ -2,9 +2,13 @@
 <!--
 **teguhe/teguhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on "Pemerintah Kota Salatiga"
-- 🌱 I’m currently working with "Delphi, Object Pascal, MariaDB, Lazarus, Linux Server"
+-->
+- 🌱 My work tools include Delphi, Lazarus, VS Code, Android Studio
+- 🔭 My Database Expert Skill include MariaDB, MySQL, Postgres, SQLite, Firebird
+- ⚡ My Favourite Server OS to work include Alma Linux, CentOS, Fedora Server, Ubuntu Server, Debian Server
+- 😄 My Desktop OS include Aurora Linux, Pop OS, Windows 11 Home
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
