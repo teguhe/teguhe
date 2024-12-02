@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ngaku+sebagai+programmer+malas+ngoding+.....;ijo+ijo+github+cuma+hasil+update+minor+.....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=sedang+malas+ngoding)](https://git.io/typing-svg)
 <!--
 **teguhe/teguhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
