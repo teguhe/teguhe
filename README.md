@@ -5,9 +5,6 @@
 - ⚡ My Favourite Server OS to work include Alma Linux, CentOS, Fedora Server, Ubuntu Server, Debian Server
 - 😄 My Desktop OS include Fedora Workstation, Pop OS, Windows 11 Home
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teguhe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-      
 
        My GitHub Stats       
 
