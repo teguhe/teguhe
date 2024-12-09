@@ -1,10 +1,11 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+- 🔭 I’m currently working on "Pemerintah Kota Salatiga"
 
-      
-
-       visitors
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+- 🌱 My work tools include Delphi, Lazarus, VS Code, Android Studio
+- 🔭 My Database Expert Skill include MariaDB, MySQL, Postgres, SQLite, Firebird
+- ⚡ My Favourite Server OS to work include Alma Linux, CentOS, Fedora Server, Ubuntu Server, Debian Server
+- 😄 My Desktop OS include Fedora Workstation, Pop OS, Windows 11 Home
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teguhe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
       
 
@@ -15,12 +16,7 @@
 **teguhe/teguhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Pemerintah Kota Salatiga"
 
-- 🌱 My work tools include Delphi, Lazarus, VS Code, Android Studio
-- 🔭 My Database Expert Skill include MariaDB, MySQL, Postgres, SQLite, Firebird
-- ⚡ My Favourite Server OS to work include Alma Linux, CentOS, Fedora Server, Ubuntu Server, Debian Server
-- 😄 My Desktop OS include Fedora Workstation, Pop OS, Windows 11 Home
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
