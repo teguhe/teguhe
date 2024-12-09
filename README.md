@@ -1,12 +1,7 @@
-- 🔭 I’m currently working on "Pemerintah Kota Salatiga"
+## Teguh Prasetyo
 
-- 🌱 My work tools include Delphi, Lazarus, VS Code, Android Studio
-- 🔭 My Database Expert Skill include MariaDB, MySQL, Postgres, SQLite, Firebird
-- ⚡ My Favourite Server OS to work include Alma Linux, CentOS, Fedora Server, Ubuntu Server, Debian Server
-- 😄 My Desktop OS include Fedora Workstation, Pop OS, Windows 11 Home
-  
-
-       My GitHub Stats       
+🔭 I’m currently working on "Pemerintah Kota Salatiga" 🌱 My work tools include Delphi, Lazarus, VS Code, Android Studio 🔭 My Database Expert Skill include MariaDB, MySQL, Postgres, SQLite, Firebird ⚡ My Favourite Server OS to work include Alma Linux, CentOS, Fedora Server, Ubuntu Server, Debian Server 😄 My Desktop OS include Fedora Workstation, Pop OS, Windows 11 Home
+ 
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=sedang+malas+ngoding)](https://git.io/typing-svg)
 
