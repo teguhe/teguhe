@@ -3,7 +3,8 @@
 
 - ⚡ Main OS (Desktop) : Ubuntu 2025.10, Windows 11 Home SL
 - ⚡ Main OS (Server ) : Alma Linux, Ubuntu Server
-- 🌱 My work tools     : Delphi, Lazarus, VS Code, AntiGravity
+- 🌱 My work tools     : Delphi, Lazarus, VS Code
+- 🌱 My work tools     : Openclaw
   
 <!--
 🔭 I’m currently working on "Pemerintah Kota Salatiga" 🌱 My work tools include Delphi, Lazarus, VS Code, Android Studio 🔭 My Database Expert Skill include MariaDB, MySQL, Postgres, SQLite, Firebird ⚡ My Favourite Server OS to work include Alma Linux, CentOS, Fedora Server, Ubuntu Server, Debian Server 😄 My Desktop OS include Fedora Workstation, Pop OS, Windows 11 Home
