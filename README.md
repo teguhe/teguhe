@@ -2,7 +2,7 @@
 ---
 
 - ⚡ Main OS (Desktop) : Ubuntu 2026.10, Windows 11 Home SL
-- ⚡ Main OS (Server ) : Ubuntu Desktop, Ubuntu Server
+- ⚡ Main OS (Server ) : Alma Linux, Ubuntu Server
 - 🌱 My work tools     : Antigravity, Deepseek Harness, Delphi, Lazarus, VS Code
 - 🌱 My work tools     : Hermes, Openclaw
   
